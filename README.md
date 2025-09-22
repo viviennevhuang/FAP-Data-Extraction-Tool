@@ -6,8 +6,17 @@ It was developed in Python to support FAP’s research and reporting needs.
 ---
 
 ## Features
-- Extracts data from SWF annual reports (PDF)
-- Cleans and structures the extracted data
+extraction.py: 
+- Takes input PDFs of SWF annual reports
+- Extracts the text from the PDFs
+- Utilizes Gemini's API to extract the desired data
+
+schema.py: 
+- Provides a framework for the output of extraction.py 
+- Gaurds against hallucination
+
+conversion.py: 
+- 
 - Exports results to Excel (returns CSV files) for easy analysis and charting
 
 ---
