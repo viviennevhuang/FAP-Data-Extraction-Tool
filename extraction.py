@@ -1,5 +1,5 @@
 
-# ---- 1. FILE/LIBRARY INSTALLATION ----
+# === 1. FILE/LIBRARY INSTALLATION ===
 # pip install pdfplumber pandas -q -U google-genai
 import pdfplumber
 from google import genai
@@ -68,8 +68,8 @@ results = []
 
 for pdf_file in pdf_files:
     result = []
-    fund_name = pdf_file.stem  # Use the file name without extension as fund name
-    print(f"Opening {pdf_file.name}...") # print check 
+    fund_name = pdf_file.stem  
+    print(f"Opening {pdf_file.name}...")  
     with pdfplumber.open(pdf_file) as pdf:
         pdf_text = ""
         for page in pdf.pages:
