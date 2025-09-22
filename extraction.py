@@ -1,5 +1,5 @@
 
-# === 1. FILE/LIBRARY INSTALLATION ===
+# === FILE/LIBRARY INSTALLATION ===
 # pip install pdfplumber pandas -q -U google-genai
 import pdfplumber
 from google import genai
