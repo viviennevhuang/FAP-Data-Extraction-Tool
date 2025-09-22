@@ -1,0 +1,4 @@
+pdfplumber
+google-genai
+pandas
+pydantic
