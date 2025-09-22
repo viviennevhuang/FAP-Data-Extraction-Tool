@@ -38,15 +38,14 @@ conversion.py:
 ## Configuration 
 
 For extraction.py:
-1. Create/locate your Gemini API Key 
+1. LINE 16: Paste in your Gemini API Key 
 	- For Gemini, go to Google AI Studio to get API Key
-	- Paste in API Key (line 17)
-	- It is possible to use any desired Generative AI Model with an API, but the 	code (setting up the "client", formatting of the "response", etc) will just 	need to be changed accordingly 
+	- It is possible to use any desired Generative AI Model with an API, but the code (setting up the "client", 	formatting of the "response", etc) will just need to be changed accordingly 
 2. Download desired annual reports in PDF form and rename so that their full fund name is in the title (i.e. "fundo_de_ahorro_de_panama_2024.pdf")
-3. Create a folder to store all of the annual reports (i.e. "pdfs")
-	- Paste in path to folder at "downloads_path" (i.e. / "Downloads" / "FAP" / 	"pdfs") (line 58)
-4. Edit "output_path" to the desired path where a folder will be created containing all of the individual JSON files for each PDF
-5. Edit the file name for the final merged JSON (line 104)
+3. LINE 55: Create a folder to store all of the annual reports (i.e. "pdfs")
+	- Paste in path to folder at "downloads_path" (i.e. / "Downloads" / "FAP" / "pdfs")
+4. LINE 58: Edit "output_path" to the desired path where a folder will be created containing all of the individual JSON files for each PDF
+5. LINE 106: Edit the file name for the final merged JSON 
 
 
 ---
