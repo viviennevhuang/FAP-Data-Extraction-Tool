@@ -16,8 +16,7 @@ schema.py:
 - Gaurds against hallucination
 
 conversion.py: 
-- 
-- Exports results to Excel (returns CSV files) for easy analysis and charting
+- Takes the final_merged_output of all of the individual JSON files and transforms into CSV files for easy analysis and graphing
 
 ---
 
