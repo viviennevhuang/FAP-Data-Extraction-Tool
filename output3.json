@@ -1,0 +1,1389 @@
+[
+  {
+    "fund_name": "Abu Dhabi Investment Authority (ADIA)",
+    "country": "United Arab Emirates",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": 6.4,
+        "thirty_year": 6.8,
+        "since_inception": null,
+        "metric_clarification": "Annualized rates of return on a point-to-point basis as at 31 December 2023. Performance is measured based on underlying audited financial data and calculated on a time-weighted basis. Performance for 2023 remains provisional until final data for non-listed assets is included."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "ADIA’s mission is to sustain the long-term prosperity of Abu Dhabi by prudently growing capital through a disciplined investment process and committed people who reflect ADIA’s cultural values.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 51.0,
+      "fixed_income": 15.5,
+      "alternatives": 34.0,
+      "cash": 2.5,
+      "total_percent": 103.0,
+      "notes": "Asset allocation is based on the midpoint of long-term strategy portfolio ranges, which do not total 100%. Equities includes Developed Equities (37%), Emerging Market Equities (11%), and Small Cap Equities (3%). Fixed Income includes Government Bonds (11%) and Credit (4.5%). Alternatives includes Financial Alternatives (7.5%), Real Estate (7.5%), Private Equity (14.5%), and Infrastructure (4.5%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 52.5,
+        "europe": 22.5,
+        "asia": 7.5,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": 15.0,
+        "globally": null,
+        "other": null,
+        "total_percent": 97.5,
+        "notes": "Geographic allocation is based on the midpoint of long-term strategy portfolio ranges, which do not total 100%. Asia allocation represents Developed Asia. As a matter of practice, ADIA does not invest in the UAE."
+      }
+    ],
+    "assets_under_management": null,
+    "management_costs": null,
+    "notes": "The proportion of ADIA’s assets managed internally grew from 55% in 2022 to 64% in 2023.",
+    "source_pdf": "aida.pdf"
+  }, 
+  {
+    "fund_name": "Alaska Permanent Fund",
+    "country": "United States",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 30, 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 7.9,
+        "three_year": 3.90,
+        "five_year": 8.24,
+        "seven_year": null,
+        "ten_year": 7.69,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 8.72,
+        "metric_clarification": "Total returns for periods ending June 30, 2024. The since inception period is 40.5 years."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 7.9,
+        "benchmark_return": 9.49,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Total return for the fiscal year ending June 30, 2024.",
+        "comments_or_reasoning": "The largest driver of this 1-year benchmark underperformance is the Fund’s tilt away from large-cap, domestic growth, and technology stocks."
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 7.9,
+        "benchmark_return": 11.9,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Total return for the fiscal year ending June 30, 2024.",
+        "comments_or_reasoning": "The largest driver of this 1-year benchmark underperformance is the Fund’s tilt away from large-cap, domestic growth, and technology stocks."
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 3.38,
+        "benchmark_return": 3.82,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 3.38,
+        "benchmark_return": 1.9,
+        "time_period": "3yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 8.24,
+        "benchmark_return": 7.91,
+        "time_period": "5yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 8.24,
+        "benchmark_return": 6.21,
+        "time_period": "5yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 7.69,
+        "benchmark_return": 6.94,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 7.69,
+        "benchmark_return": 5.45,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 8.72,
+        "benchmark_return": 8.81,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized total return for the 40.5-year period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 8.72,
+        "benchmark_return": 7.84,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the 40.5-year period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To manage and invest the assets of the Permanent Fund to deliver outstanding returns for the benefit of all current and future generations of Alaskans, preserving and converting the state’s nonrenewable oil and mineral wealth into a renewable financial resource.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 33.0,
+      "fixed_income": 18.0,
+      "alternatives": 47.0,
+      "cash": 2.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as of June 30, 2024. Alternatives category combines Private Equity (18%), Real Estate (12%), Private Income (9%), Absolute Return (7%), and Tactical Opportunities (1%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 76.0,
+        "europe": 11.0,
+        "asia": 6.0,
+        "latin_america": 5.0,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 2.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation as of June 30, 2024. The sum of provided regional allocations is 98.6%. Africa and Oceania percentages are calculated from dollar values provided in the text ($0.1B and $0.4B respectively) against the total fund value of $80.46B."
+      }
+    ],
+    "assets_under_management": {
+      "value": 80462800000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 504600000.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.62,
+      "notes": "Total investment management fees for FY24 were $504.6 million, representing 0.62% of the $82.0 billion in total assets under management, which includes the Alaska Permanent Fund, the Alaska Mental Health Trust Authority, and the Power Cost Equalization Endowment Fund. This total includes management fees and APFC operational costs. Performance fees of $287.5 million (0.35% of AUM) are reported separately and are not included in this figure."
+    },
+    "notes": null,
+    "source_pdf": "alaska_permanent_fund.pdf"
+  }, 
+  {
+    "fund_name": "Fondo de Ahorro de Panamá (FAP)",
+    "country": "Panama",
+    "reporting_period": {
+      "value": "2024",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 7.12,
+        "three_year": 2.7,
+        "five_year": 3.53,
+        "seven_year": null,
+        "ten_year": 2.91,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 3.47,
+        "metric_clarification": "Gross annualized return in Balboas (at par with USD)."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite benchmark index",
+        "fund_return": 7.12,
+        "benchmark_return": 5.78,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Gross return before costs for the calendar year 2024.",
+        "comments_or_reasoning": "The fund outperformed its benchmark index by 134 basis points."
+      },
+      {
+        "benchmark_name": "Composite benchmark index",
+        "fund_return": 3.47,
+        "benchmark_return": 3.02,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Gross annualized return since inception (2012-2024).",
+        "comments_or_reasoning": "The fund has historically outperformed its benchmark by 45 basis points."
+      }
+    ],
+    "investment_mandate": "To serve as the country's primary long-term savings and stabilization mechanism, preserving capital and generating long-term value in a controlled and strategic manner. The fund aims to protect citizens in case of natural disasters or severe economic downturns.",
+    "investment_horizon": "medium-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": [
+        {
+          "value": 130838887.0,
+          "time_period": "as of December 31, 2024",
+          "metric_clarification": "Value at Risk (VaR) for the fund's portfolio, calculated using the historical simulation method."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 17.0,
+      "fixed_income": 47.0,
+      "alternatives": 7.0,
+      "cash": 29.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as of year-end 2024."
+    },
+    "investment_geography": [
+      {
+        "north_america": 88.0,
+        "europe": 5.0,
+        "asia": 1.0,
+        "latin_america": 3.0,
+        "africa": null,
+        "oceania": 3.0,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 100.0,
+        "notes": "Geographic distribution of investments. The fund focuses on developed economies to maximize liquidity."
+      }
+    ],
+    "assets_under_management": {
+      "value": 1542115695.0,
+      "currency": "B/."
+    },
+    "management_costs": {
+      "management_fees": 8414435.0,
+      "management_fees_currency": "B/.",
+      "management_fees_percent_aum": 0.55,
+      "notes": "Represents 'Administración de valores' from the income statement. Includes management fees (B/. 3,644,333) and net costs/expenses related to the operation of the funds in which FAP invests, including carried interest (B/. 4,770,102)."
+    },
+    "notes": "Financial figures are expressed in Balboas (B/.), which is at par and freely exchangeable with the United States Dollar (USD).",
+    "source_pdf": "fap.pdf"
+  }, 
+  {
+    "fund_name": "Fondo de Estabilización Económica y Social (FEES)",
+    "country": "Chile",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 2.36,
+        "three_year": -5.17,
+        "five_year": -0.71,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 1.47,
+        "metric_clarification": "Net return in USD, using Time Weighted Rate of Return (TWR) methodology. Returns for periods greater than one year are annualized. Since inception date is April 1, 2007."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 2.36,
+        "benchmark_return": 2.4,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -5.17,
+        "benchmark_return": -5.1,
+        "time_period": "3y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 7 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -0.71,
+        "benchmark_return": -0.67,
+        "time_period": "5y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 1.47,
+        "benchmark_return": 1.51,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark. Since April 1, 2007.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points on an annualized basis."
+      }
+    ],
+    "investment_mandate": "The fund's main purpose is the stability of public finances and the provision of public goods and services over time, in the face of abrupt changes in the economic cycle and extraordinary events. Its resources are to be used mainly when 'macro' tail risks occur that produce significant and infrequent fiscal deficits compared to the regular cycle and that may affect the cost and financing capacity of the Treasury.",
+    "investment_horizon": "medium-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": [
+        {
+          "value": 2.35,
+          "time_period": "1y",
+          "metric_clarification": "Internal Rate of Return (IRR) in USD for 2023."
+        },
+        {
+          "value": 2.12,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized Internal Rate of Return (IRR) in USD since fund creation."
+        }
+      ],
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 7.49,
+          "time_period": "3y",
+          "metric_clarification": "Annualized volatility of returns at year-end 2023, based on 3 years of data."
+        },
+        {
+          "value": 5.46,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized volatility of returns since April 1, 2007."
+        }
+      ],
+      "value_at_risk": [
+        {
+          "value": 7.66,
+          "time_period": "1y",
+          "metric_clarification": "Measures potential losses over a one-year horizon with 95% confidence at year-end 2023."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": [
+        {
+          "value": 0.08,
+          "time_period": "at year-end",
+          "metric_clarification": "Ex-ante tracking error of 8 basis points at the close of 2023."
+        }
+      ],
+      "ex_post_tracking_error": [
+        {
+          "value": 0.16,
+          "time_period": "3y",
+          "metric_clarification": "Ex-post tracking error of 16 basis points, calculated as the annualized standard deviation of historical monthly excess returns from December 31, 2020, to December 31, 2023."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": null,
+      "fixed_income": 84.8,
+      "alternatives": 15.1,
+      "cash": 0.2,
+      "total_percent": 100.1,
+      "notes": "Asset allocation as of December 31, 2023. Fixed income includes Treasury bills (71.0%), sovereign bonds (9.9%), and inflation-indexed sovereign bonds (3.9%). Alternative investments consist of US agency mortgage-backed securities (MBS). Cash is part of 'Other' which also includes unsettled transactions."
+    },
+    "investment_geography": [
+      {
+        "north_america": 71.7,
+        "europe": 19.1,
+        "asia": 9.1,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 99.9,
+        "notes": "Geographic allocation as of December 31, 2023."
+      }
+    ],
+    "assets_under_management": {
+      "value": 6030000000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 1411168.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.02,
+      "notes": "Total costs for 2023, equivalent to 2 basis points of the average fund size. Includes payments to the custodian (US$ 725,477), remuneration to the Central Bank of Chile (US$ 644,254), and other services (US$ 41,437)."
+    },
+    "notes": "A new strategic asset allocation was implemented in 2023. The fund's objective was further specified in 2022 to focus on tail risks.",
+    "source_pdf": "fondo_de_estabilización_económica_y_social.pdf"
+  }, 
+  {
+    "fund_name": "Fondo de Reserva de Pensiones (FRP)",
+    "country": "Chile",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 11.35,
+        "three_year": -1.49,
+        "five_year": 3.19,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 3.21,
+        "metric_clarification": "Net return in USD, calculated using the Time Weighted Rate of Return (TWR) methodology. Returns for periods longer than one year are annualized. Inception date for returns is April 1, 2007."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 11.35,
+        "benchmark_return": 11.68,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD for the 2023 calendar year.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 33 basis points. The report explains that the underperformance of the equities portfolio is mainly due to taxes deducted from the fund's return, which do not affect the benchmark."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -1.49,
+        "benchmark_return": -1.42,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 7 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 3.19,
+        "benchmark_return": 3.45,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 26 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 3.21,
+        "benchmark_return": 3.46,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD since April 1, 2007.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 25 basis points on an annualized basis since inception."
+      }
+    ],
+    "investment_mandate": "The fund's objective is to supplement the financing of fiscal obligations in the area of pensions and social security, specifically to support the Universal Guaranteed Pension and basic disability pensions. The investment objective for the long-term portfolio is to obtain an expected annualized return in Chilean pesos of at least 2% above Chilean inflation over a 10-year period, with a probability of at least 60%.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": [
+        {
+          "value": 11.35,
+          "time_period": "2023",
+          "metric_clarification": "Internal Rate of Return (IRR) in USD."
+        },
+        {
+          "value": 3.19,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized Internal Rate of Return (IRR) in USD since inception."
+        }
+      ],
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 11.32,
+          "time_period": "2023",
+          "metric_clarification": "Annual volatility."
+        }
+      ],
+      "value_at_risk": [
+        {
+          "value": 9.55,
+          "time_period": "1y",
+          "metric_clarification": "Value at Risk (VaR) with a 95% confidence level at year-end 2023."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": [
+        {
+          "value": 0.21,
+          "time_period": "3y",
+          "metric_clarification": "Annualized standard deviation of historical monthly excess returns from December 31, 2020 to December 31, 2023."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 31.3,
+      "fixed_income": 68.7,
+      "alternatives": null,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Asset allocation for the Portafolio de Inversión de Largo Plazo (PILP) as of December 31, 2023. Fixed income (68.7%) includes sovereign bonds and other related assets (33.8%), corporate bonds (13.0%), high-yield bonds (8.0%), inflation-linked sovereign bonds (7.9%), and US agency mortgage-backed securities (6.0%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 52.6,
+        "europe": 26.2,
+        "asia": 18.9,
+        "latin_america": 1.9,
+        "africa": 0.3,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 99.9,
+        "notes": "Geographic allocation for the Portafolio de Inversión de Largo Plazo (PILP) as of December 31, 2023."
+      }
+    ],
+    "assets_under_management": {
+      "value": 8639000000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 5672872.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.07,
+      "notes": "Total costs include custody services (US$ 1,837,017), fees for the Central Bank of Chile (BCCh) administration (US$ 1,224,195), external managers' fees (US$ 2,299,942), and other external services (US$ 311,718). The total cost represents 7 basis points of the average fund size in 2023."
+    },
+    "notes": null,
+    "source_pdf": "fondo_de_reserva_de_pensiones.pdf"
+  }, 
+  {
+    "fund_name": "Future Fund",
+    "country": "Australia",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 9.1,
+        "three_year": 4.5,
+        "five_year": 6.7,
+        "seven_year": 7.8,
+        "ten_year": 8.3,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 7.7,
+        "metric_clarification": "Net of costs. Since inception date is May 2006."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 9.1,
+        "benchmark_return": 7.8,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": "The outperformance was driven by a strong rally in equity markets, particularly in the US, and strong returns from private credit and alternatives. The Fund's positions, especially in the hedge fund portfolio, delivered very well in a year where equities were the only strongly performing traditional asset class."
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 4.5,
+        "benchmark_return": 9.3,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": "The three-year rolling average fund performance did not meet the minimum performance bar, incorporating returns of 9.1% in 2023-24, 6.0% in 2022-23, and -1.2% in 2021-22, alongside higher levels of CPI over the period."
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 6.7,
+        "benchmark_return": 7.9,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 7.8,
+        "benchmark_return": 7.3,
+        "time_period": "7yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 8.3,
+        "benchmark_return": 6.9,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 7.7,
+        "benchmark_return": 7.0,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs. Since inception date is May 2006.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To achieve an average annual return of at least the Consumer Price Index (CPI) + 4.0% to 5.0% per annum over the long term, with an acceptable but not excessive level of risk.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": [
+        {
+          "value": 1.1,
+          "time_period": "1y",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 0.4,
+          "time_period": "3yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 0.9,
+          "time_period": "5yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.2,
+          "time_period": "7yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.4,
+          "time_period": "10yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.0,
+          "time_period": "since inception",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        }
+      ],
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 4.3,
+          "time_period": "1y",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.9,
+          "time_period": "3yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 5.5,
+          "time_period": "5yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 5.1,
+          "time_period": "7yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.8,
+          "time_period": "10yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.7,
+          "time_period": "since inception",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        }
+      ],
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 37.3,
+      "fixed_income": 11.0,
+      "alternatives": 45.0,
+      "cash": 6.7,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as at 30 June 2024. Equities includes Australian equities (10.3%), global developed markets equities (20.8%), and global emerging market equities (6.2%). Alternatives includes private equity (14.5%), property (5.4%), infrastructure and timberland (9.9%), and other alternatives (15.2%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 43.0,
+        "europe": 15.0,
+        "asia": 6.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": 21.0,
+        "developed": null,
+        "emerging": 10.0,
+        "globally": null,
+        "other": 4.0,
+        "total_percent": 99.0,
+        "notes": "Based on physical investments by geography as at 30 June 2024. Europe includes Europe (ex-UK) at 11% and United Kingdom at 4%. Other includes Developed (other). Total does not sum to 100% due to rounding as stated in the report."
+      }
+    ],
+    "assets_under_management": {
+      "value": 224912000000.0,
+      "currency": "AUD"
+    },
+    "management_costs": {
+      "management_fees": 715980000.0,
+      "management_fees_currency": "AUD",
+      "management_fees_percent_aum": 0.335,
+      "notes": "Represents direct costs, which reflect all directly incurred costs associated with the management of the Future Fund as reported in the audited financial statements. Changes in costs reflect changes in the size of the Fund, investment activity, and the accrual and payment of performance fees."
+    },
+    "notes": null,
+    "source_pdf": "future_fund.pdf"
+  }, 
+  {
+    "fund_name": "GIC Private Limited (GIC)",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending March 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": 4.4,
+        "seven_year": null,
+        "ten_year": 4.6,
+        "twenty_year": 5.8,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Nominal annualised return in US$, net of costs and fees, on a time-weighted basis for periods ending March 31, 2024."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": 3.9,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Annualised real return above global inflation in US$ for the 20-year period ending March 31, 2024."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 5.8,
+        "benchmark_return": 6.4,
+        "time_period": "20yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      },
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 4.6,
+        "benchmark_return": 6.0,
+        "time_period": "10yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      },
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 4.4,
+        "benchmark_return": 7.0,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      }
+    ],
+    "investment_mandate": "To preserve and enhance the international purchasing power of the reserves placed under management by delivering good long-term returns above global inflation.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 8.7,
+          "time_period": "20yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        },
+        {
+          "value": 7.1,
+          "time_period": "10yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        },
+        {
+          "value": 8.0,
+          "time_period": "5yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        }
+      ],
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 30.0,
+      "fixed_income": 39.0,
+      "alternatives": 31.0,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Asset mix as at March 31, 2024. Equities consist of Developed Market Equities (13%) and Emerging Market Equities (17%). Fixed income consists of Nominal Bonds and Cash (32%) and Inflation-Linked Bonds (7%). Alternatives consist of Real Estate (13%) and Private Equity (18%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 39.0,
+        "europe": 15.0,
+        "asia": 26.0,
+        "latin_america": 4.0,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": 11.0,
+        "other": 5.0,
+        "total_percent": 100.0,
+        "notes": "Geographic mix as at March 31, 2024. North America consists of United States (39%). Latin America (4%). Europe consists of United Kingdom (5%) and Eurozone (10%). Asia consists of Japan (4%) and Asia ex Japan (22%). Other consists of Middle East, Africa, and the rest of Europe (5%)."
+      }
+    ],
+    "assets_under_management": null,
+    "management_costs": null,
+    "notes": null,
+    "source_pdf": "gic.pdf"
+  }, 
+  {
+    "fund_name": "Government Pension Fund Global (GPFG)",
+    "country": "Norway",
+    "reporting_period": {
+      "value": "2024",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 13.1,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Return before management costs, measured in the fund's currency basket."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 6.3,
+        "metric_clarification": "Average annual return for the period 1998-2024, measured in the fund's currency basket."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 4.1,
+        "metric_clarification": "Annual net real return, after deductions for inflation and management costs, for the period 1998-2024."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Fund's benchmark index",
+        "fund_return": 13.1,
+        "benchmark_return": 13.55,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Return before management costs, measured in the fund's currency basket.",
+        "comments_or_reasoning": "The fund's return was 0.45 percentage point lower than the return on the benchmark index."
+      },
+      {
+        "benchmark_name": "Fund's benchmark index",
+        "fund_return": 6.3,
+        "benchmark_return": 6.05,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Average annual return before management costs for the period 1998-2024, measured in the fund's currency basket.",
+        "comments_or_reasoning": "The average annual return before management costs was 0.25 percentage point higher than the return on the benchmark index."
+      }
+    ],
+    "investment_mandate": "To achieve the highest possible long-term return within the constraints laid down in the mandate from the Ministry of Finance.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": [
+        {
+          "value": 0.44,
+          "time_period": "end of 2024",
+          "metric_clarification": "Expected relative volatility (tracking error). The management mandate requires this to not exceed 1.25 percentage points."
+        }
+      ],
+      "ex_post_tracking_error": [
+        {
+          "value": 0.63,
+          "time_period": "1998-2024",
+          "metric_clarification": "Realised relative volatility."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 71.4,
+      "fixed_income": 26.6,
+      "alternatives": 1.9,
+      "cash": null,
+      "total_percent": 99.9,
+      "notes": "Asset allocation at the end of 2024. Alternative investments consist of unlisted real estate (1.8%) and unlisted renewable energy infrastructure (0.1%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": null,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": 89.2,
+        "emerging": 10.8,
+        "globally": null,
+        "other": null,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation of the equity portfolio at year-end 2024."
+      },
+      {
+        "north_america": 50.0,
+        "europe": 42.9,
+        "asia": null,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 7.2,
+        "total_percent": 100.1,
+        "notes": "Geographic allocation of the unlisted real estate portfolio at year-end 2024. North America consists of the US (50.0%). Europe consists of the UK (20.1%), France (14.8%), Germany (5.0%), and Switzerland (3.0%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 19742000000000.0,
+      "currency": "NOK"
+    },
+    "management_costs": {
+      "management_fees": 7400000000.0,
+      "management_fees_currency": "NOK",
+      "management_fees_percent_aum": 0.04,
+      "notes": "Management costs for 2024. According to CEM Benchmarking, the GPFG has the lowest costs in its peer group, primarily due to a high share of internal management."
+    },
+    "notes": "The report is a translation from Norwegian. The fund is managed by Norges Bank Investment Management (NBIM), a division of Norges Bank.",
+    "source_pdf": "norges_bank.pdf"
+  }, 
+  {
+    "fund_name": "New Zealand Superannuation Fund (NZ Super Fund)",
+    "country": "New Zealand",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 14.9,
+        "three_year": null,
+        "five_year": 9.52,
+        "seven_year": null,
+        "ten_year": 10.33,
+        "twenty_year": 10.03,
+        "thirty_year": null,
+        "since_inception": 10.0,
+        "metric_clarification": "Actual Fund return, after costs, before NZ tax."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 14.9,
+        "benchmark_return": 15.13,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Returns are after costs, before NZ tax.",
+        "comments_or_reasoning": "The strong global equity performance meant it was challenging for our active strategies, many of which focus on private markets, to outperform the Reference Portfolio over the year."
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 9.52,
+        "benchmark_return": 7.98,
+        "time_period": "5y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.33,
+        "benchmark_return": 8.4,
+        "time_period": "10y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.03,
+        "benchmark_return": 8.49,
+        "time_period": "20y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.0,
+        "benchmark_return": 8.54,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax. Since inception September 2003.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 14.9,
+        "benchmark_return": 5.61,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 9.52,
+        "benchmark_return": 2.23,
+        "time_period": "5y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.33,
+        "benchmark_return": 2.24,
+        "time_period": "10y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.03,
+        "benchmark_return": 3.45,
+        "time_period": "20y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.0,
+        "benchmark_return": 3.5,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax. Since inception September 2003.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To invest the NZ Super Fund on a prudent, commercial basis and in a manner consistent with: best-practice portfolio management; maximising return without undue risk to the Fund as a whole; and avoiding prejudice to New Zealand’s reputation as a responsible member of the world community.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": [
+        {
+          "value": 1.01,
+          "time_period": "since July 2010",
+          "metric_clarification": "Realised Sharpe ratio for the Actual Portfolio. The calculation uses annual data points to take into account full valuation cycles of private assets."
+        },
+        {
+          "value": 0.57,
+          "time_period": "since inception",
+          "metric_clarification": "Realised Sharpe ratio for the Actual Portfolio. The calculation uses annual data points to take into account full valuation cycles of private assets."
+        }
+      ],
+      "internal_rate_of_return": null,
+      "active_return": [
+        {
+          "value": -0.24,
+          "time_period": "1y",
+          "metric_clarification": "Value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.54,
+          "time_period": "5y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.93,
+          "time_period": "10y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.54,
+          "time_period": "20y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.46,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        }
+      ],
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 50.0,
+      "fixed_income": 21.0,
+      "alternatives": 25.0,
+      "cash": 4.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as at 30 June 2024. Alternatives includes liquid alternatives (7%), infrastructure (5%), rural and timber (5%), property (5%), and private equity (3%). Cash category includes cash and miscellaneous assets."
+    },
+    "investment_geography": [
+      {
+        "north_america": 54.1,
+        "europe": 19.6,
+        "asia": 7.9,
+        "latin_america": null,
+        "africa": null,
+        "oceania": 14.4,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 4.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation of the Actual Portfolio as at 30 June 2024. Asia includes Japan (4.2%) and Asia excl. Japan (3.7%). Oceania includes New Zealand (10.6%) and Australia (3.8%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 76650000000.0,
+      "currency": "NZD"
+    },
+    "management_costs": {
+      "management_fees": 261837000.0,
+      "management_fees_currency": "NZD",
+      "management_fees_percent_aum": 0.37,
+      "notes": "Total operating expenditure as a percentage of average net assets. Includes manager fees (NZ$51.3m), performance fees (NZ$30.4m), employee costs (NZ$69.9m), investment-related costs (NZ$82.3m), and other costs (NZ$27.9m)."
+    },
+    "notes": null,
+    "source_pdf": "nz_super_fund.pdf"
+  }, 
+  {
+    "fund_name": "Temasek Holdings (Private) Limited (Temasek)",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending March 31, 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 1.6,
+        "three_year": 0.68,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": 6.0,
+        "twenty_year": 7.0,
+        "thirty_year": null,
+        "since_inception": 14.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in Singapore Dollar (S$) terms, compounded and annualized. Since inception in 1974."
+      },
+      {
+        "one_year": null,
+        "three_year": 1.0,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 8.0,
+        "thirty_year": null,
+        "since_inception": 15.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in US$ terms, based on historical foreign exchange rates."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "Temasek is a global investment company rooted in Singapore. Operating on commercial principles, we deliver sustainable returns over the long term.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": [
+        {
+          "value": null,
+          "time_period": "1y",
+          "metric_clarification": "Based on Monte Carlo simulations for 12-month forward portfolio returns, there is a five-in-six chance that one-year forward portfolio returns may range from -10% to +15%."
+        }
+      ],
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": null,
+      "fixed_income": null,
+      "alternatives": null,
+      "cash": null,
+      "total_percent": null,
+      "notes": "Asset allocation by standard classes was not explicitly provided. The report provides a breakdown by liquidity profile (e.g., 48% in liquid and listed assets, 52% in unlisted assets), but categories mix asset classes (e.g., 'Liquid & sub-20% listed assets' includes both cash and equities), preventing a clear breakdown."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": 65.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 35.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation is based on underlying assets as at March 31, 2024. 'Asia' (65%) comprises Singapore (27%), China (19%), India (7%), and Asia Pacific (ex Singapore, China & India) (12%). 'Other' (35%) comprises Americas (22%) and Europe, Middle East & Africa (13%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 288000000000.0,
+      "currency": "USD"
+    },
+    "management_costs": null,
+    "notes": "Benchmark comparison data against FTSE STI, MSCI AC Asia ex-Japan, and MSCI ACWI was presented in a bar chart without explicit numerical values for each bar, and therefore could not be extracted.",
+    "source_pdf": "temasek.pdf"
+  }, 
+  {
+    "fund_name": "Temasek Holdings (Private) Limited",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2024/2025",
+      "clarification": "fiscal year ending March 2025"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 11.8,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 7.0,
+        "thirty_year": null,
+        "since_inception": 14.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in S$ terms, compounded and annualized."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "seven_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 8.0,
+        "thirty_year": null,
+        "since_inception": 15.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in US$ terms, based on historical foreign exchange rates."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "Operating on commercial principles, we deliver sustainable returns over the long term.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 51.0,
+      "fixed_income": null,
+      "alternatives": 49.0,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Equities figure represents liquid and listed assets (51%), which includes an unspecified amount of cash and cash equivalents. Alternatives figure represents unlisted assets and funds (49%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": 64.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 36.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation is based on underlying assets. 'Asia' includes Singapore (27%), China (18%), India (8%), and Asia Pacific (ex Singapore, China & India) (11%). 'Other' includes Americas (24%) and Europe, Middle East & Africa (12%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 324000000000.0,
+      "currency": "USD"
+    },
+    "management_costs": null,
+    "notes": null,
+    "source_pdf": "temasek2025.pdf"
+  }
+]
