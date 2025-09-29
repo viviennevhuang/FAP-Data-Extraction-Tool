@@ -1,0 +1,98 @@
+[
+  {
+    "fund_name": "Fondo de Ahorro de Panamá (FAP)",
+    "country": "Panama",
+    "reporting_period": {
+      "value": "2024",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 7.12,
+        "three_year": 2.7,
+        "five_year": 3.53,
+        "ten_year": 2.91,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 3.47,
+        "metric_clarification": "Gross annualized return in Balboas (at par with USD)."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite benchmark index",
+        "fund_return": 7.12,
+        "benchmark_return": 5.78,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Gross return before costs for the calendar year 2024.",
+        "comments_or_reasoning": "The fund outperformed its benchmark index by 134 basis points."
+      },
+      {
+        "benchmark_name": "Composite benchmark index",
+        "fund_return": 3.47,
+        "benchmark_return": 3.02,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Gross annualized return since inception (2012-2024).",
+        "comments_or_reasoning": "The fund has historically outperformed its benchmark by 45 basis points."
+      }
+    ],
+    "investment_mandate": "To serve as the country's primary long-term savings and stabilization mechanism, preserving capital and generating long-term value in a controlled and strategic manner. The fund aims to protect citizens in case of natural disasters or severe economic downturns.",
+    "investment_horizon": "medium-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": [
+        {
+          "value": 130838887.0,
+          "time_period": "as of December 31, 2024",
+          "metric_clarification": "Value at Risk (VaR) for the fund's portfolio, calculated using the historical simulation method."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 17.0,
+      "fixed_income": 47.0,
+      "alternatives": 7.0,
+      "cash": 29.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as of year-end 2024."
+    },
+    "investment_geography": [
+      {
+        "north_america": 88.0,
+        "europe": 5.0,
+        "asia": 1.0,
+        "latin_america": 3.0,
+        "africa": null,
+        "oceania": 3.0,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 100.0,
+        "notes": "Geographic distribution of investments. The fund focuses on developed economies to maximize liquidity."
+      }
+    ],
+    "assets_under_management": {
+      "value": 1542115695.0,
+      "currency": "B/."
+    },
+    "management_costs": {
+      "management_fees": 8414435.0,
+      "management_fees_currency": "B/.",
+      "management_fees_percent_aum": 0.55,
+      "notes": "Represents 'Administración de valores' from the income statement. Includes management fees (B/. 3,644,333) and net costs/expenses related to the operation of the funds in which FAP invests, including carried interest (B/. 4,770,102)."
+    },
+    "notes": "Financial figures are expressed in Balboas (B/.), which is at par and freely exchangeable with the United States Dollar (USD).",
+    "source_pdf": "fap.pdf"
+  }
+]

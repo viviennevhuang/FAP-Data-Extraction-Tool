@@ -1,0 +1,150 @@
+[
+  {
+    "fund_name": "Fondo de Estabilización Económica y Social (FEES)",
+    "country": "Chile",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 2.36,
+        "three_year": -5.17,
+        "five_year": -0.71,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 1.47,
+        "metric_clarification": "Net return in USD, using Time Weighted Rate of Return (TWR) methodology. Returns for periods greater than one year are annualized. Since inception date is April 1, 2007."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 2.36,
+        "benchmark_return": 2.4,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -5.17,
+        "benchmark_return": -5.1,
+        "time_period": "3y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 7 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -0.71,
+        "benchmark_return": -0.67,
+        "time_period": "5y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 1.47,
+        "benchmark_return": 1.51,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD. The excess return is the difference between the portfolio's return and the weighted sum of the returns of each asset class's benchmark. Since April 1, 2007.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 4 basis points on an annualized basis."
+      }
+    ],
+    "investment_mandate": "The fund's main purpose is the stability of public finances and the provision of public goods and services over time, in the face of abrupt changes in the economic cycle and extraordinary events. Its resources are to be used mainly when 'macro' tail risks occur that produce significant and infrequent fiscal deficits compared to the regular cycle and that may affect the cost and financing capacity of the Treasury.",
+    "investment_horizon": "medium-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": [
+        {
+          "value": 2.35,
+          "time_period": "1y",
+          "metric_clarification": "Internal Rate of Return (IRR) in USD for 2023."
+        },
+        {
+          "value": 2.12,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized Internal Rate of Return (IRR) in USD since fund creation."
+        }
+      ],
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 7.49,
+          "time_period": "3y",
+          "metric_clarification": "Annualized volatility of returns at year-end 2023, based on 3 years of data."
+        },
+        {
+          "value": 5.46,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized volatility of returns since April 1, 2007."
+        }
+      ],
+      "value_at_risk": [
+        {
+          "value": 7.66,
+          "time_period": "1y",
+          "metric_clarification": "Measures potential losses over a one-year horizon with 95% confidence at year-end 2023."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": [
+        {
+          "value": 0.08,
+          "time_period": "at year-end",
+          "metric_clarification": "Ex-ante tracking error of 8 basis points at the close of 2023."
+        }
+      ],
+      "ex_post_tracking_error": [
+        {
+          "value": 0.16,
+          "time_period": "3y",
+          "metric_clarification": "Ex-post tracking error of 16 basis points, calculated as the annualized standard deviation of historical monthly excess returns from December 31, 2020, to December 31, 2023."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": null,
+      "fixed_income": 84.8,
+      "alternatives": 15.1,
+      "cash": 0.2,
+      "total_percent": 100.1,
+      "notes": "Asset allocation as of December 31, 2023. Fixed income includes Treasury bills (71.0%), sovereign bonds (9.9%), and inflation-indexed sovereign bonds (3.9%). Alternative investments consist of US agency mortgage-backed securities (MBS). Cash is part of 'Other' which also includes unsettled transactions."
+    },
+    "investment_geography": [
+      {
+        "north_america": 71.7,
+        "europe": 19.1,
+        "asia": 9.1,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 99.9,
+        "notes": "Geographic allocation as of December 31, 2023."
+      }
+    ],
+    "assets_under_management": {
+      "value": 6030000000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 1411168.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.02,
+      "notes": "Total costs for 2023, equivalent to 2 basis points of the average fund size. Includes payments to the custodian (US$ 725,477), remuneration to the Central Bank of Chile (US$ 644,254), and other services (US$ 41,437)."
+    },
+    "notes": "A new strategic asset allocation was implemented in 2023. The fund's objective was further specified in 2022 to focus on tail risks.",
+    "source_pdf": "fondo_de_estabilización_económica_y_social.pdf"
+  }
+]

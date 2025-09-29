@@ -1,0 +1,119 @@
+[
+  {
+    "fund_name": "GIC Private Limited (GIC)",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending March 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": 4.4,
+        "ten_year": 4.6,
+        "twenty_year": 5.8,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Nominal annualised return in US$, net of costs and fees, on a time-weighted basis for periods ending March 31, 2024."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": null,
+        "twenty_year": 3.9,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Annualised real return above global inflation in US$ for the 20-year period ending March 31, 2024."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 5.8,
+        "benchmark_return": 6.4,
+        "time_period": "20yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      },
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 4.6,
+        "benchmark_return": 6.0,
+        "time_period": "10yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      },
+      {
+        "benchmark_name": "Reference Portfolio (65% global equities and 35% global bonds)",
+        "fund_return": 4.4,
+        "benchmark_return": 7.0,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Comparison of nominal annualised returns in US$. GIC Portfolio returns are net of fees, while the Reference Portfolio returns are on a gross basis.",
+        "comments_or_reasoning": "The GIC Portfolio had lower returns due to its diversified asset composition and preemptive measures to lower portfolio risk, including an underweight in Developed Market Equities, which performed strongly during this period."
+      }
+    ],
+    "investment_mandate": "To preserve and enhance the international purchasing power of the reserves placed under management by delivering good long-term returns above global inflation.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 8.7,
+          "time_period": "20yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        },
+        {
+          "value": 7.1,
+          "time_period": "10yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        },
+        {
+          "value": 8.0,
+          "time_period": "5yr",
+          "metric_clarification": "Computed using the standard deviation of the monthly returns of the GIC Portfolio over the specified time horizon."
+        }
+      ],
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 30.0,
+      "fixed_income": 39.0,
+      "alternatives": 31.0,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Asset mix as at March 31, 2024. Equities consist of Developed Market Equities (13%) and Emerging Market Equities (17%). Fixed income consists of Nominal Bonds and Cash (32%) and Inflation-Linked Bonds (7%). Alternatives consist of Real Estate (13%) and Private Equity (18%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 39.0,
+        "europe": 15.0,
+        "asia": 26.0,
+        "latin_america": 4.0,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": 11.0,
+        "other": 5.0,
+        "total_percent": 100.0,
+        "notes": "Geographic mix as at March 31, 2024. North America consists of United States (39%). Latin America (4%). Europe consists of United Kingdom (5%) and Eurozone (10%). Asia consists of Japan (4%) and Asia ex Japan (22%). Other consists of Middle East, Africa, and the rest of Europe (5%)."
+      }
+    ],
+    "assets_under_management": null,
+    "management_costs": null,
+    "notes": null,
+    "source_pdf": "gic.pdf"
+  }
+]

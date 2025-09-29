@@ -1,0 +1,154 @@
+[
+  {
+    "fund_name": "Alaska Permanent Fund",
+    "country": "United States",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 30, 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 7.9,
+        "three_year": 3.90,
+        "five_year": 8.24,
+        "seven_year": null,
+        "ten_year": 7.69,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 8.72,
+        "metric_clarification": "Total returns for periods ending June 30, 2024. The since inception period is 40.5 years."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 7.9,
+        "benchmark_return": 9.49,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Total return for the fiscal year ending June 30, 2024.",
+        "comments_or_reasoning": "The largest driver of this 1-year benchmark underperformance is the Fund’s tilt away from large-cap, domestic growth, and technology stocks."
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 7.9,
+        "benchmark_return": 11.9,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Total return for the fiscal year ending June 30, 2024.",
+        "comments_or_reasoning": "The largest driver of this 1-year benchmark underperformance is the Fund’s tilt away from large-cap, domestic growth, and technology stocks."
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 3.38,
+        "benchmark_return": 3.82,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 3.38,
+        "benchmark_return": 1.9,
+        "time_period": "3yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 8.24,
+        "benchmark_return": 7.91,
+        "time_period": "5yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 8.24,
+        "benchmark_return": 6.21,
+        "time_period": "5yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 7.69,
+        "benchmark_return": 6.94,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 7.69,
+        "benchmark_return": 5.45,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Performance Benchmark",
+        "fund_return": 8.72,
+        "benchmark_return": 8.81,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized total return for the 40.5-year period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Passive Index",
+        "fund_return": 8.72,
+        "benchmark_return": 7.84,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Annualized total return for the 40.5-year period ending June 30, 2024.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To manage and invest the assets of the Permanent Fund to deliver outstanding returns for the benefit of all current and future generations of Alaskans, preserving and converting the state’s nonrenewable oil and mineral wealth into a renewable financial resource.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 33.0,
+      "fixed_income": 18.0,
+      "alternatives": 47.0,
+      "cash": 2.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as of June 30, 2024. Alternatives category combines Private Equity (18%), Real Estate (12%), Private Income (9%), Absolute Return (7%), and Tactical Opportunities (1%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 76.0,
+        "europe": 11.0,
+        "asia": 6.0,
+        "latin_america": 5.0,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 2.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation as of June 30, 2024. The sum of provided regional allocations is 98.6%. Africa and Oceania percentages are calculated from dollar values provided in the text ($0.1B and $0.4B respectively) against the total fund value of $80.46B."
+      }
+    ],
+    "assets_under_management": {
+      "value": 80462800000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 504600000.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.62,
+      "notes": "Total investment management fees for FY24 were $504.6 million, representing 0.62% of the $82.0 billion in total assets under management, which includes the Alaska Permanent Fund, the Alaska Mental Health Trust Authority, and the Power Cost Equalization Endowment Fund. This total includes management fees and APFC operational costs. Performance fees of $287.5 million (0.35% of AUM) are reported separately and are not included in this figure."
+    },
+    "notes": null,
+    "source_pdf": "alaska_permanent_fund.pdf"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "fund_name": "Abu Dhabi Investment Authority (ADIA)",
+    "country": "United Arab Emirates",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": null,
+        "twenty_year": 6.4,
+        "thirty_year": 6.8,
+        "since_inception": null,
+        "metric_clarification": "Annualized rates of return on a point-to-point basis as at 31 December 2023. Performance is measured based on underlying audited financial data and calculated on a time-weighted basis. Performance for 2023 remains provisional until final data for non-listed assets is included."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "ADIA’s mission is to sustain the long-term prosperity of Abu Dhabi by prudently growing capital through a disciplined investment process and committed people who reflect ADIA’s cultural values.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 51.0,
+      "fixed_income": 15.5,
+      "alternatives": 34.0,
+      "cash": 2.5,
+      "total_percent": 103.0,
+      "notes": "Asset allocation is based on the midpoint of long-term strategy portfolio ranges, which do not total 100%. Equities includes Developed Equities (37%), Emerging Market Equities (11%), and Small Cap Equities (3%). Fixed Income includes Government Bonds (11%) and Credit (4.5%). Alternatives includes Financial Alternatives (7.5%), Real Estate (7.5%), Private Equity (14.5%), and Infrastructure (4.5%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 52.5,
+        "europe": 22.5,
+        "asia": 7.5,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": 15.0,
+        "globally": null,
+        "other": null,
+        "total_percent": 97.5,
+        "notes": "Geographic allocation is based on the midpoint of long-term strategy portfolio ranges, which do not total 100%. Asia allocation represents Developed Asia. As a matter of practice, ADIA does not invest in the UAE."
+      }
+    ],
+    "assets_under_management": null,
+    "management_costs": null,
+    "notes": "The proportion of ADIA’s assets managed internally grew from 55% in 2022 to 64% in 2023.",
+    "source_pdf": "aida.pdf"
+  }
+]

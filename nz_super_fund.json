@@ -1,0 +1,201 @@
+[
+  {
+    "fund_name": "New Zealand Superannuation Fund (NZ Super Fund)",
+    "country": "New Zealand",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 14.9,
+        "three_year": null,
+        "five_year": 9.52,
+        "ten_year": 10.33,
+        "twenty_year": 10.03,
+        "thirty_year": null,
+        "since_inception": 10.0,
+        "metric_clarification": "Actual Fund return, after costs, before NZ tax."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 14.9,
+        "benchmark_return": 15.13,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Returns are after costs, before NZ tax.",
+        "comments_or_reasoning": "The strong global equity performance meant it was challenging for our active strategies, many of which focus on private markets, to outperform the Reference Portfolio over the year."
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 9.52,
+        "benchmark_return": 7.98,
+        "time_period": "5y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.33,
+        "benchmark_return": 8.4,
+        "time_period": "10y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.03,
+        "benchmark_return": 8.49,
+        "time_period": "20y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Reference Portfolio",
+        "fund_return": 10.0,
+        "benchmark_return": 8.54,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax. Since inception September 2003.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 14.9,
+        "benchmark_return": 5.61,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 9.52,
+        "benchmark_return": 2.23,
+        "time_period": "5y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.33,
+        "benchmark_return": 2.24,
+        "time_period": "10y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.03,
+        "benchmark_return": 3.45,
+        "time_period": "20y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "New Zealand Treasury Bill",
+        "fund_return": 10.0,
+        "benchmark_return": 3.5,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Returns are annualized, after costs, before NZ tax. Since inception September 2003.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To invest the NZ Super Fund on a prudent, commercial basis and in a manner consistent with: best-practice portfolio management; maximising return without undue risk to the Fund as a whole; and avoiding prejudice to New Zealand’s reputation as a responsible member of the world community.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": [
+        {
+          "value": 1.01,
+          "time_period": "since July 2010",
+          "metric_clarification": "Realised Sharpe ratio for the Actual Portfolio. The calculation uses annual data points to take into account full valuation cycles of private assets."
+        },
+        {
+          "value": 0.57,
+          "time_period": "since inception",
+          "metric_clarification": "Realised Sharpe ratio for the Actual Portfolio. The calculation uses annual data points to take into account full valuation cycles of private assets."
+        }
+      ],
+      "internal_rate_of_return": null,
+      "active_return": [
+        {
+          "value": -0.24,
+          "time_period": "1y",
+          "metric_clarification": "Value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.54,
+          "time_period": "5y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.93,
+          "time_period": "10y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.54,
+          "time_period": "20y",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        },
+        {
+          "value": 1.46,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized value added by the Guardians compared to passive Reference Portfolio benchmark, after costs, before NZ tax."
+        }
+      ],
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 50.0,
+      "fixed_income": 21.0,
+      "alternatives": 25.0,
+      "cash": 4.0,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as at 30 June 2024. Alternatives includes liquid alternatives (7%), infrastructure (5%), rural and timber (5%), property (5%), and private equity (3%). Cash category includes cash and miscellaneous assets."
+    },
+    "investment_geography": [
+      {
+        "north_america": 54.1,
+        "europe": 19.6,
+        "asia": 7.9,
+        "latin_america": null,
+        "africa": null,
+        "oceania": 14.4,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 4.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation of the Actual Portfolio as at 30 June 2024. Asia includes Japan (4.2%) and Asia excl. Japan (3.7%). Oceania includes New Zealand (10.6%) and Australia (3.8%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 76650000000.0,
+      "currency": "NZD"
+    },
+    "management_costs": {
+      "management_fees": 261837000.0,
+      "management_fees_currency": "NZD",
+      "management_fees_percent_aum": 0.37,
+      "notes": "Total operating expenditure as a percentage of average net assets. Includes manager fees (NZ$51.3m), performance fees (NZ$30.4m), employee costs (NZ$69.9m), investment-related costs (NZ$82.3m), and other costs (NZ$27.9m)."
+    },
+    "notes": null,
+    "source_pdf": "nz_super_fund.pdf"
+  }
+]

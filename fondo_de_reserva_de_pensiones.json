@@ -1,0 +1,139 @@
+[
+  {
+    "fund_name": "Fondo de Reserva de Pensiones (FRP)",
+    "country": "Chile",
+    "reporting_period": {
+      "value": "2023",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 11.35,
+        "three_year": -1.49,
+        "five_year": 3.19,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 3.21,
+        "metric_clarification": "Net return in USD, calculated using the Time Weighted Rate of Return (TWR) methodology. Returns for periods longer than one year are annualized. Inception date for returns is April 1, 2007."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 11.35,
+        "benchmark_return": 11.68,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net return in USD for the 2023 calendar year.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 33 basis points. The report explains that the underperformance of the equities portfolio is mainly due to taxes deducted from the fund's return, which do not affect the benchmark."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": -1.49,
+        "benchmark_return": -1.42,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 7 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 3.19,
+        "benchmark_return": 3.45,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 26 basis points on an annualized basis."
+      },
+      {
+        "benchmark_name": "Composite Benchmark",
+        "fund_return": 3.21,
+        "benchmark_return": 3.46,
+        "time_period": "since inception",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Annualized net return in USD since April 1, 2007.",
+        "comments_or_reasoning": "The fund underperformed its benchmark by 25 basis points on an annualized basis since inception."
+      }
+    ],
+    "investment_mandate": "The fund's objective is to supplement the financing of fiscal obligations in the area of pensions and social security, specifically to support the Universal Guaranteed Pension and basic disability pensions. The investment objective for the long-term portfolio is to obtain an expected annualized return in Chilean pesos of at least 2% above Chilean inflation over a 10-year period, with a probability of at least 60%.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": [
+        {
+          "value": 11.35,
+          "time_period": "2023",
+          "metric_clarification": "Internal Rate of Return (IRR) in USD."
+        },
+        {
+          "value": 3.19,
+          "time_period": "since inception",
+          "metric_clarification": "Annualized Internal Rate of Return (IRR) in USD since inception."
+        }
+      ],
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 11.32,
+          "time_period": "2023",
+          "metric_clarification": "Annual volatility."
+        }
+      ],
+      "value_at_risk": [
+        {
+          "value": 9.55,
+          "time_period": "1y",
+          "metric_clarification": "Value at Risk (VaR) with a 95% confidence level at year-end 2023."
+        }
+      ],
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": [
+        {
+          "value": 0.21,
+          "time_period": "3y",
+          "metric_clarification": "Annualized standard deviation of historical monthly excess returns from December 31, 2020 to December 31, 2023."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 31.3,
+      "fixed_income": 68.7,
+      "alternatives": null,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Asset allocation for the Portafolio de Inversión de Largo Plazo (PILP) as of December 31, 2023. Fixed income (68.7%) includes sovereign bonds and other related assets (33.8%), corporate bonds (13.0%), high-yield bonds (8.0%), inflation-linked sovereign bonds (7.9%), and US agency mortgage-backed securities (6.0%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 52.6,
+        "europe": 26.2,
+        "asia": 18.9,
+        "latin_america": 1.9,
+        "africa": 0.3,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": null,
+        "total_percent": 99.9,
+        "notes": "Geographic allocation for the Portafolio de Inversión de Largo Plazo (PILP) as of December 31, 2023."
+      }
+    ],
+    "assets_under_management": {
+      "value": 8639000000.0,
+      "currency": "USD"
+    },
+    "management_costs": {
+      "management_fees": 5672872.0,
+      "management_fees_currency": "USD",
+      "management_fees_percent_aum": 0.07,
+      "notes": "Total costs include custody services (US$ 1,837,017), fees for the Central Bank of Chile (BCCh) administration (US$ 1,224,195), external managers' fees (US$ 2,299,942), and other external services (US$ 311,718). The total cost represents 7 basis points of the average fund size in 2023."
+    },
+    "notes": null,
+    "source_pdf": "fondo_de_reserva_de_pensiones.pdf"
+  }
+]

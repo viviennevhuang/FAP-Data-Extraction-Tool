@@ -1,0 +1,191 @@
+[
+  {
+    "fund_name": "Future Fund",
+    "country": "Australia",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending June 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 9.1,
+        "three_year": 4.5,
+        "five_year": 6.7,
+        "seven_year": 7.8,
+        "ten_year": 8.3,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 7.7,
+        "metric_clarification": "Net of costs. Since inception date is May 2006."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 9.1,
+        "benchmark_return": 7.8,
+        "time_period": "1y",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": "The outperformance was driven by a strong rally in equity markets, particularly in the US, and strong returns from private credit and alternatives. The Fund's positions, especially in the hedge fund portfolio, delivered very well in a year where equities were the only strongly performing traditional asset class."
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 4.5,
+        "benchmark_return": 9.3,
+        "time_period": "3yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": "The three-year rolling average fund performance did not meet the minimum performance bar, incorporating returns of 9.1% in 2023-24, 6.0% in 2022-23, and -1.2% in 2021-22, alongside higher levels of CPI over the period."
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 6.7,
+        "benchmark_return": 7.9,
+        "time_period": "5yr",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 7.8,
+        "benchmark_return": 7.3,
+        "time_period": "7yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 8.3,
+        "benchmark_return": 6.9,
+        "time_period": "10yr",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs.",
+        "comments_or_reasoning": null
+      },
+      {
+        "benchmark_name": "Target return (CPI + 4.0% to 5.0% per annum)",
+        "fund_return": 7.7,
+        "benchmark_return": 7.0,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Net of costs. Since inception date is May 2006.",
+        "comments_or_reasoning": null
+      }
+    ],
+    "investment_mandate": "To achieve an average annual return of at least the Consumer Price Index (CPI) + 4.0% to 5.0% per annum over the long term, with an acceptable but not excessive level of risk.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": [
+        {
+          "value": 1.1,
+          "time_period": "1y",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 0.4,
+          "time_period": "3yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 0.9,
+          "time_period": "5yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.2,
+          "time_period": "7yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.4,
+          "time_period": "10yr",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        },
+        {
+          "value": 1.0,
+          "time_period": "since inception",
+          "metric_clarification": "A measure of the risk-adjusted return."
+        }
+      ],
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": [
+        {
+          "value": 4.3,
+          "time_period": "1y",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.9,
+          "time_period": "3yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 5.5,
+          "time_period": "5yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 5.1,
+          "time_period": "7yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.8,
+          "time_period": "10yr",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        },
+        {
+          "value": 4.7,
+          "time_period": "since inception",
+          "metric_clarification": "An industry measure showing the level of realised volatility in the portfolio."
+        }
+      ],
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 37.3,
+      "fixed_income": 11.0,
+      "alternatives": 45.0,
+      "cash": 6.7,
+      "total_percent": 100.0,
+      "notes": "Asset allocation as at 30 June 2024. Equities includes Australian equities (10.3%), global developed markets equities (20.8%), and global emerging market equities (6.2%). Alternatives includes private equity (14.5%), property (5.4%), infrastructure and timberland (9.9%), and other alternatives (15.2%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": 43.0,
+        "europe": 15.0,
+        "asia": 6.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": 21.0,
+        "developed": null,
+        "emerging": 10.0,
+        "globally": null,
+        "other": 4.0,
+        "total_percent": 99.0,
+        "notes": "Based on physical investments by geography as at 30 June 2024. Europe includes Europe (ex-UK) at 11% and United Kingdom at 4%. Other includes Developed (other). Total does not sum to 100% due to rounding as stated in the report."
+      }
+    ],
+    "assets_under_management": {
+      "value": 224912000000.0,
+      "currency": "AUD"
+    },
+    "management_costs": {
+      "management_fees": 715980000.0,
+      "management_fees_currency": "AUD",
+      "management_fees_percent_aum": 0.335,
+      "notes": "Represents direct costs, which reflect all directly incurred costs associated with the management of the Future Fund as reported in the audited financial statements. Changes in costs reflect changes in the size of the Fund, investment activity, and the accrual and payment of performance fees."
+    },
+    "notes": null,
+    "source_pdf": "future_fund.pdf"
+  }
+]

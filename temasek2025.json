@@ -1,0 +1,67 @@
+[
+  {
+    "fund_name": "Temasek Holdings (Private) Limited",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2024/2025",
+      "clarification": "fiscal year ending March 2025"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 11.8,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 7.0,
+        "thirty_year": null,
+        "since_inception": 14.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in S$ terms, compounded and annualized."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 8.0,
+        "thirty_year": null,
+        "since_inception": 15.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in US$ terms, based on historical foreign exchange rates."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "Operating on commercial principles, we deliver sustainable returns over the long term.",
+    "investment_horizon": "long-term",
+    "metrics": null,
+    "asset_allocation": {
+      "equities": 51.0,
+      "fixed_income": null,
+      "alternatives": 49.0,
+      "cash": null,
+      "total_percent": 100.0,
+      "notes": "Equities figure represents liquid and listed assets (51%), which includes an unspecified amount of cash and cash equivalents. Alternatives figure represents unlisted assets and funds (49%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": 64.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 36.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation is based on underlying assets. 'Asia' includes Singapore (27%), China (18%), India (8%), and Asia Pacific (ex Singapore, China & India) (11%). 'Other' includes Americas (24%) and Europe, Middle East & Africa (12%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 324000000000.0,
+      "currency": "USD"
+    },
+    "management_costs": null,
+    "notes": null,
+    "source_pdf": "temasek2025.pdf"
+  }
+]

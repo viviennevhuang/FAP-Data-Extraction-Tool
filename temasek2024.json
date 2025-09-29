@@ -1,0 +1,84 @@
+[
+  {
+    "fund_name": "Temasek Holdings (Private) Limited (Temasek)",
+    "country": "Singapore",
+    "reporting_period": {
+      "value": "2023/2024",
+      "clarification": "fiscal year ending March 31, 2024"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 1.6,
+        "three_year": 0.68,
+        "five_year": null,
+        "ten_year": 6.0,
+        "twenty_year": 7.0,
+        "thirty_year": null,
+        "since_inception": 14.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in Singapore Dollar (S$) terms, compounded and annualized. Since inception in 1974."
+      },
+      {
+        "one_year": null,
+        "three_year": 1.0,
+        "five_year": null,
+        "ten_year": 5.0,
+        "twenty_year": 8.0,
+        "thirty_year": null,
+        "since_inception": 15.0,
+        "metric_clarification": "Total Shareholder Return (TSR) in US$ terms, based on historical foreign exchange rates."
+      }
+    ],
+    "benchmark_comparison": null,
+    "investment_mandate": "Temasek is a global investment company rooted in Singapore. Operating on commercial principles, we deliver sustainable returns over the long term.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": [
+        {
+          "value": null,
+          "time_period": "1y",
+          "metric_clarification": "Based on Monte Carlo simulations for 12-month forward portfolio returns, there is a five-in-six chance that one-year forward portfolio returns may range from -10% to +15%."
+        }
+      ],
+      "information_ratio": null,
+      "ex_ante_tracking_error": null,
+      "ex_post_tracking_error": null,
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": null,
+      "fixed_income": null,
+      "alternatives": null,
+      "cash": null,
+      "total_percent": null,
+      "notes": "Asset allocation by standard classes was not explicitly provided. The report provides a breakdown by liquidity profile (e.g., 48% in liquid and listed assets, 52% in unlisted assets), but categories mix asset classes (e.g., 'Liquid & sub-20% listed assets' includes both cash and equities), preventing a clear breakdown."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": 65.0,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 35.0,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation is based on underlying assets as at March 31, 2024. 'Asia' (65%) comprises Singapore (27%), China (19%), India (7%), and Asia Pacific (ex Singapore, China & India) (12%). 'Other' (35%) comprises Americas (22%) and Europe, Middle East & Africa (13%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 288000000000.0,
+      "currency": "USD"
+    },
+    "management_costs": null,
+    "notes": "Benchmark comparison data against FTSE STI, MSCI AC Asia ex-Japan, and MSCI ACWI was presented in a bar chart without explicit numerical values for each bar, and therefore could not be extracted.",
+    "source_pdf": "temasek.pdf"
+  }
+]

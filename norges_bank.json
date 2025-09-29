@@ -1,0 +1,138 @@
+[
+  {
+    "fund_name": "Government Pension Fund Global (GPFG)",
+    "country": "Norway",
+    "reporting_period": {
+      "value": "2024",
+      "clarification": "calendar year"
+    },
+    "annual_return_percent": [
+      {
+        "one_year": 13.1,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": null,
+        "metric_clarification": "Return before management costs, measured in the fund's currency basket."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 6.3,
+        "metric_clarification": "Average annual return for the period 1998-2024, measured in the fund's currency basket."
+      },
+      {
+        "one_year": null,
+        "three_year": null,
+        "five_year": null,
+        "ten_year": null,
+        "twenty_year": null,
+        "thirty_year": null,
+        "since_inception": 4.1,
+        "metric_clarification": "Annual net real return, after deductions for inflation and management costs, for the period 1998-2024."
+      }
+    ],
+    "benchmark_comparison": [
+      {
+        "benchmark_name": "Fund's benchmark index",
+        "fund_return": 13.1,
+        "benchmark_return": 13.55,
+        "time_period": "1y",
+        "comparison_result": "underperformed",
+        "metric_clarification": "Return before management costs, measured in the fund's currency basket.",
+        "comments_or_reasoning": "The fund's return was 0.45 percentage point lower than the return on the benchmark index."
+      },
+      {
+        "benchmark_name": "Fund's benchmark index",
+        "fund_return": 6.3,
+        "benchmark_return": 6.05,
+        "time_period": "since inception",
+        "comparison_result": "outperformed",
+        "metric_clarification": "Average annual return before management costs for the period 1998-2024, measured in the fund's currency basket.",
+        "comments_or_reasoning": "The average annual return before management costs was 0.25 percentage point higher than the return on the benchmark index."
+      }
+    ],
+    "investment_mandate": "To achieve the highest possible long-term return within the constraints laid down in the mandate from the Ministry of Finance.",
+    "investment_horizon": "long-term",
+    "metrics": {
+      "sharpe_ratio": null,
+      "internal_rate_of_return": null,
+      "active_return": null,
+      "volatility": null,
+      "value_at_risk": null,
+      "monte_carlo": null,
+      "information_ratio": null,
+      "ex_ante_tracking_error": [
+        {
+          "value": 0.44,
+          "time_period": "end of 2024",
+          "metric_clarification": "Expected relative volatility (tracking error). The management mandate requires this to not exceed 1.25 percentage points."
+        }
+      ],
+      "ex_post_tracking_error": [
+        {
+          "value": 0.63,
+          "time_period": "1998-2024",
+          "metric_clarification": "Realised relative volatility."
+        }
+      ],
+      "hit_ratio": null
+    },
+    "asset_allocation": {
+      "equities": 71.4,
+      "fixed_income": 26.6,
+      "alternatives": 1.9,
+      "cash": null,
+      "total_percent": 99.9,
+      "notes": "Asset allocation at the end of 2024. Alternative investments consist of unlisted real estate (1.8%) and unlisted renewable energy infrastructure (0.1%)."
+    },
+    "investment_geography": [
+      {
+        "north_america": null,
+        "europe": null,
+        "asia": null,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": 89.2,
+        "emerging": 10.8,
+        "globally": null,
+        "other": null,
+        "total_percent": 100.0,
+        "notes": "Geographic allocation of the equity portfolio at year-end 2024."
+      },
+      {
+        "north_america": 50.0,
+        "europe": 42.9,
+        "asia": null,
+        "latin_america": null,
+        "africa": null,
+        "oceania": null,
+        "developed": null,
+        "emerging": null,
+        "globally": null,
+        "other": 7.2,
+        "total_percent": 100.1,
+        "notes": "Geographic allocation of the unlisted real estate portfolio at year-end 2024. North America consists of the US (50.0%). Europe consists of the UK (20.1%), France (14.8%), Germany (5.0%), and Switzerland (3.0%)."
+      }
+    ],
+    "assets_under_management": {
+      "value": 19742000000000.0,
+      "currency": "NOK"
+    },
+    "management_costs": {
+      "management_fees": 7400000000.0,
+      "management_fees_currency": "NOK",
+      "management_fees_percent_aum": 0.04,
+      "notes": "Management costs for 2024. According to CEM Benchmarking, the GPFG has the lowest costs in its peer group, primarily due to a high share of internal management."
+    },
+    "notes": "The report is a translation from Norwegian. The fund is managed by Norges Bank Investment Management (NBIM), a division of Norges Bank.",
+    "source_pdf": "norges_bank.pdf"
+  }
+]
