@@ -84,7 +84,7 @@ for pdf_file in pdf_files:
                 "response_schema": SWFReport, 
                 "system_instruction": system_prompt,
                 "temperature": 0.1, 
-                "top_p": 1 
+                "top_p": 0.1 
                 # MODIFY MODEL, CONTENTS, AND CONFIG IF DESIRED
             },
         )
